@@ -1,1 +1,1 @@
-print('Hrllo Krit')
+print('Hrllo World')
